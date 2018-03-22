@@ -4,8 +4,8 @@ body{
     font-family: arial;
 }
 .container{
-    width:500px;
-    height: 600px;
+    width:700px;
+    height: 900px;
     margin: 0 auto;
     border: 2px solid black;
     border-top:none;
