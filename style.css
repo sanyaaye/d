@@ -5,7 +5,7 @@ body{
 }
 .container{
     width:700px;
-    height: 900px;
+    height: 850px;
     margin: 0 auto;
     border: 2px solid black;
     border-top:none;
@@ -63,12 +63,14 @@ body{
 }
 .j2 button{
     background: royalblue;
-    margin-left: 
     border:none;
     border-radius: 10px;
-    margin-left: 150px;
     padding: 5px 10px;
 }
 .j1 p{
     font-size: 20px;
+}
+.align{
+    text-align: center;
+    margin-top: 60px;
 }
