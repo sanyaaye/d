@@ -1,0 +1,74 @@
+body{
+    padding: 0;
+    margin: 0;
+    font-family: arial;
+}
+.container{
+    width:500px;
+    height: 600px;
+    margin: 0 auto;
+    border: 2px solid black;
+    border-top:none;
+    box-shadow: 1px 1px 1px blue
+}
+.flex{
+    display: flex;
+}
+.main{
+    width: auto;
+    height: auto;
+}
+.l{
+    width: 50%;
+    height: 20%;
+    text-align: center;
+}
+.l:hover{
+    color: royalblue;
+    border-bottom: 1px solid royalblue;
+    transition: 0.3s;
+}
+.lol{
+    color: royalblue;
+    border-bottom: 1px solid royalblue;
+    transition: 0.3s;
+}
+.l p{
+    font-size: 18px;
+    color:royalblue;
+}
+.dl h2{
+    color: royalblue;
+    text-align: center;
+}
+.dl p{
+    text-align: left;
+    margin-left: 30px;
+    font-size: 20px;
+    color:dimgrey;
+}
+.dl img{
+    width: 50%;
+    height:30%;
+    margin-left: 100px;
+}
+.j2 p{
+    text-align: center;
+    font-size: 20px;
+}
+.j2 a{
+    text-decoration: none;
+    color: cornflowerblue;
+    font-size: 18px;
+}
+.j2 button{
+    background: royalblue;
+    margin-left: 
+    border:none;
+    border-radius: 10px;
+    margin-left: 150px;
+    padding: 5px 10px;
+}
+.j1 p{
+    font-size: 20px;
+}
